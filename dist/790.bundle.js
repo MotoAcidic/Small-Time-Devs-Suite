@@ -1,0 +1,1 @@
+(self.webpackChunksolana_wallet_generator=self.webpackChunksolana_wallet_generator||[]).push([[790],{790:()=>{}}]);

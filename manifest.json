@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Solana Wallet Generator",
+  "version": "1.0",
+  "description": "Generates Solana wallets and converts keys to Base58.",
+  "permissions": ["clipboardWrite", "clipboardRead"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.webp",
+      "48": "icon.webp",
+      "128": "icon.webp"
+    }
+  }
+}
